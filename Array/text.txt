@@ -3,3 +3,6 @@ what is Data Structure?
 1. Use data in effcient way.
 2. way to structured way.
 3. Algorithms => execute step by step called Algorithms.
+
+A. Primivitive Data Structure
+B. Non-Primivitive data structure.
