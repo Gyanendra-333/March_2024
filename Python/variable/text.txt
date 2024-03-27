@@ -1,0 +1,7 @@
+Variable in python
+=> python is case sensitive.
+=> Do not use reserved keyword in python.
+
+1. integer
+2. string
+3. Boolean
